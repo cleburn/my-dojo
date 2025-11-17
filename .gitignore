@@ -35,6 +35,7 @@ data/processed/
 .vscode/
 .idea/
 .DS_Store
+.claude/
 
 # --- Other ---
 *.log
