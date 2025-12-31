@@ -42,3 +42,7 @@ data/processed/
 
 # Streamlit
 .streamlit/
+
+# Claude 
+.claude/
+CLAUDE.md
