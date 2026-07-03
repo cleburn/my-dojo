@@ -117,7 +117,7 @@ Common scopes:
 | `reports` | Output rendering, markdown/terminal reports |
 | `ml` | Model training, predictions, artifacts |
 | `cleanup` | Remove cache, fix structure, refactor |
-| `docs` | README, CLAUDE.md, workflow docs |
+| `docs` | README, workflow docs |
 | `fix` | Bug fixes |
 
 Examples:
