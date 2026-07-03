@@ -148,7 +148,6 @@ mkdir -p notebooks visuals data/raw data/processed
 touch data/raw/.gitkeep data/processed/.gitkeep visuals/.gitkeep
 touch README.md requirements.txt
 cp ~/repos/amazon-ads-analytics/.gitignore .
-cp -r ~/repos/.claude .
 ```
 
 ### CLI / App project
@@ -156,9 +155,8 @@ cp -r ~/repos/.claude .
 mkdir ~/repos/new-project && cd ~/repos/new-project
 mkdir -p src config tests notebooks visuals data/raw data/processed
 touch data/raw/.gitkeep data/processed/.gitkeep tests/.gitkeep visuals/.gitkeep
-touch README.md CLAUDE.md requirements.txt
+touch README.md requirements.txt
 cp ~/repos/amazon-ads-analytics/.gitignore .
-cp -r ~/repos/.claude .
 ```
 
 ---
