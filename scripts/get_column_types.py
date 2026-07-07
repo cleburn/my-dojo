@@ -52,5 +52,5 @@ def get_column_types(file_path: str, table_name: str = "default_table") -> dict:
 #     except Exception as e:
 #         print(f"Error processing file: {e}")
 
-for key,val in get_column_types('../data/raw/listings.csv').items():
+for key,val in get_column_types('data/raw/listings.csv').items():
     print(f"{key}: {val}")
